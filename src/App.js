@@ -1,6 +1,5 @@
 import React from 'react';
 import Dinner from './Dinner'
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
